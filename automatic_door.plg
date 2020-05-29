@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\Project_Embedded System\Automatic Door\automatic_door.uvproj
+Project File Date:  05/26/2020
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+compiling auto.c...
+linking...
+Program Size: data=11.0 xdata=0 code=109
+creating hex file from "automatic_door"...
+"automatic_door" - 0 Error(s), 0 Warning(s).
